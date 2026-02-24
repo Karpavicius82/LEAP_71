@@ -1,0 +1,1 @@
+Tai yra Python prototipas, kuris generuoja 3D geometriją naudojant Signed Distance Function (SDF) metodą ir imituoja „fraktalinio“ tipo aušinimo kanalų sistemą variklio sienelėje. Labai grubus 1 prototipas.
